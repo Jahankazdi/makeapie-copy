@@ -1,5 +1,5 @@
 # makeapie-copy
-https://www.makeapie.com/explore.html 的替代,提供克隆版
+https://www.makeapie.com/explore.html 的替代,提供克隆版 正在爬虫
 
 * echarts社区要停运，所以在这里给大家克隆一个版本
 * 考虑到大家的习惯问题正在模仿官网
